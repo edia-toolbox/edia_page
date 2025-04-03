@@ -1,0 +1,32 @@
+site_name: My Docs
+site-url: https://sitename.example
+theme: 
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+    #logo: fontawesome/brands/500px
+    
+  name: material
+  palette: 
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: green
+      accent: deep orange
+
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: blue
+      accent: amber
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  

@@ -12,7 +12,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: green
+      primary: cyan
       accent: deep orange
 
     # Dark mode
@@ -20,7 +20,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: blue
+      primary: cyan
       accent: amber
 
 markdown_extensions:
@@ -28,5 +28,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   

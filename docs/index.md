@@ -1,4 +1,11 @@
-# EDIA — A Unity XR Toolbox for research
+---
+hide: 
+  - navigation
+---
+
+# **EDIA** 
+
+## A Unity XR Toolbox for research
 <video autoplay loop muted playsinline>
     <source src="assets/vid.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -69,47 +76,38 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 Read our [getting started guide](https://mind-body-emotion.notion.site/EDIA-Core-Tutorial-Website-1ca03dd4773f80eb87c9f5f0806f4ece?pvs=74).
 
 
-### Modules
+## Modules
 
-=== : "EDIA Core"  
+=== ":edia-edia_rounded: EDIA Core"  
 
     * Structure your experiment.
+    * hansi 
     * Send messages to the user.
     * Experimenter interface.
     * Use Config files.
 
-=== "EDIA LSL"  
+=== ":edia-edia_rounded: EDIA LSL"  
 
     1. Use LSL to synchronize your data.
     2. Send triggers.
     3. Stream data.
 
-=== "EDIA LSL"  
+=== ":edia-edia_rounded: EDIA RCAS"  
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
-=== "EDIA RCAS"  
+=== ":edia-edia_rounded: EDIA Eye"  
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
-=== "EDIA Eye"  
+=== ":edia-edia_rounded: EDIA Eye Submodules"  
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
-=== "EDIA LSL"  
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
-=== "EDIA RCAS"  
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci

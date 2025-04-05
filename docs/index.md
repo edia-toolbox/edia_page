@@ -2,15 +2,13 @@
 hide: 
   - navigation
 ---
-
-# **EDIA** 
-
-## A Unity XR Toolbox for research
+# :edia-edia_rounded: EDIA
 <video autoplay loop muted playsinline>
     <source src="assets/vid.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
+## A Unity XR Toolbox for research
 
 EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR using Unity. It is an extension of [UXF — Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework/) (Brookes et al., [2020](https://github.com/immersivecognition/unity-experiment-framework/)).
 ## Key features
@@ -73,7 +71,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
 
 ## Getting started
-Read our [getting started guide](https://mind-body-emotion.notion.site/EDIA-Core-Tutorial-Website-1ca03dd4773f80eb87c9f5f0806f4ece?pvs=74).
+Read our [getting started guide](gettingstarted.md).
 
 
 ## Modules

@@ -3,10 +3,6 @@ hide:
   - navigation
 ---
 # :edia-edia_rounded: EDIA
-<video autoplay loop muted playsinline>
-    <source src="assets/vid.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
 
 ## A Unity XR Toolbox for research
 

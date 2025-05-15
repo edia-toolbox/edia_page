@@ -104,4 +104,8 @@ Read our [getting started guide](gettingstarted.md).
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
+## Get updated
+At the moment EDIA is not Open Source yet, register here to keep updated.
+[Open the form page](contact.md).
+
 

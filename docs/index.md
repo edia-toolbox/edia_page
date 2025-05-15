@@ -15,7 +15,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     ---
 
-    Define the information for your experiment at the granularity level which you need: from sessions to blocks to trials to single steps within trials. EDIA builds upon and extends the functionalities of the [UXF — Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework/) (Brookes et al., [2020](https://github.com/immersivecognition/unity-experiment-framework/)) package.
+    Define the information for your experiment at the granularity level which you need: from sessions to blocks to trials to single steps within trials. EDIA builds upon and extends the functionalities of the [UXF — Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework/){:target="_blank"} (Brookes et al., [2020](https://github.com/immersivecognition/unity-experiment-framework/){:target="_blank"}) package.
 
     [:octicons-arrow-right-24: Getting started](gettingstarted.md)
 
@@ -57,10 +57,10 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     ---
 
-    Use the [LabStreamingLayer protocol](#) to synchronize your experiment with other data streams (e.g., EEG, fNIRS, ...).
+    Use the [LabStreamingLayer protocol](https://labstreaminglayer.org/){:target="_blank"} to synchronize your experiment with other data streams (e.g., EEG, fNIRS, ...).
 
 
-    [:octicons-arrow-right-24: EDIA LSL](#)
+    [:octicons-arrow-right-24: EDIA LSL](https://labstreaminglayer.org/)
 
 </div>
 
@@ -74,31 +74,34 @@ Read our [getting started guide](gettingstarted.md).
 
 === ":edia-edia_rounded: EDIA Core"  
 
-    * Structure your experiment.
-    * hansi 
-    * Send messages to the user.
+    * The :heart: heart of the EDIA toolbox.
+    * Structure your experiment: `Sessions` <> `Blocks` <> `Trials` <> `Trial Steps`
+    * Use logically nested Config files (JSON) to manage the compiled experiment.
+    * Send messages to the XR user.
     * Experimenter interface.
-    * Use Config files.
+    
 
-=== ":edia-edia_rounded: EDIA LSL"  
+=== ":edia-Edia_Lsl_Yellow: EDIA LSL"  
 
-    1. Use LSL to synchronize your data.
-    2. Send triggers.
-    3. Stream data.
+    1. Use the [LabStreamingLayer](https://labstreaminglayer.org/){:target="_blank"} protocol to synchronize your data.
+    2. The :edia-Edia_Lsl_Yellow: `EDIA LSL` module is a convenience wrapper and extension of the [LSL4Unity](https://github.com/labstreaminglayer/LSL4Unity){:target="_blank} package.
+    3. It provides prefabs and scripts which allow you to
+        2. Send precisely timed triggers with a single command. 
+        3. Easily stream data (eye tracking data, movement data) in world or local coordinates.
 
-=== ":edia-edia_rounded: EDIA RCAS"  
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
-=== ":edia-edia_rounded: EDIA Eye"  
+=== ":edia-Edia_Rcas_Cyan: EDIA RCAS"  
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est
     3. Nulla tempor lobortis orci
 
-=== ":edia-edia_rounded: EDIA Eye Submodules"  
+=== ":edia-Edia_Eye_Orange: EDIA Eye"  
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+
+=== ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
 
     1. Sed sagittis eleifend rutrum
     2. Donec vitae suscipit est

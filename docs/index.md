@@ -91,15 +91,18 @@ Read our [getting started guide](gettingstarted.md).
 
 === ":edia-Edia_Rcas_Cyan: EDIA RCAS"  
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+    1. <span style="color: cyan;">**R**</span>emote <span style="color: cyan;">**C**</span>ontrol <span style="color: cyan;">**A**</span>nd <span style="color: cyan;">**S**</span>treaming.
+    2. Interface with your experiment which runs on a mobile headset.
+    3. Load Config files from another device.
+    4. Send commands to proceed in the experiment.
+    5. Stream the headset view to the experimenter's device (*limited).
 
 === ":edia-Edia_Eye_Orange: EDIA Eye"  
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+    1. Central :eye: eye tracking package of the `EDIA toolbox`. 
+    2. Provides a unified interface for accessing eye tracking data.
+    3. Example visualizations of eye tracking data: gaze, eye openness, ...
+    4. Interface for logging eye tracking data via :edia-Edia_Lsl_Yellow:`EDIA LSL` or writing it to disc. 
 
 === ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
 

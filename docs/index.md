@@ -10,7 +10,7 @@ hide:
 
 ## A Unity XR Toolbox for research
 
-EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR using Unity. It is an extension of [UXF — Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework/) (Brookes et al., [2020](https://github.com/immersivecognition/unity-experiment-framework/)).
+EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR. 
 ## Key features
 
 <div class="grid cards" markdown>
@@ -19,9 +19,9 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     ---
 
-    Define the information for your experiment at the granularity level which you need: from sessions to blocks to trials to single steps within trials.
+    Define the information for your experiment at the granularity level which you need: from sessions to blocks to trials to single steps within trials. EDIA builds upon and extends the functionalities of the [UXF — Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework/) (Brookes et al., [2020](https://github.com/immersivecognition/unity-experiment-framework/)) package.
 
-    [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/Configs-I-Loading-Trial-and-Block-Settings-1ca03dd4773f8084ae86f153b428a84f)
+    [:octicons-arrow-right-24: Getting started](gettingstarted.md)
 
 -   :material-folder-multiple-plus-outline:{ .lg .middle } __Manage it with config files__
 

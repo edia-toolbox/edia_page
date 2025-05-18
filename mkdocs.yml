@@ -27,7 +27,7 @@ theme:
       primary: cyan
       accent: amber
   extra_css:
-    - assets/custom.css
+    - overrides/custom.css
   
 markdown_extensions:
   - attr_list

@@ -6,6 +6,6 @@
 
 /* Dark mode */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #00BCD4; /* Cyan-ish */
-  --md-accent-fg-color: #FFC107;  /* Amber */
+  --md-primary-fg-color: #FFC107; 
+  --md-accent-fg-color: #FFC107;  
 }

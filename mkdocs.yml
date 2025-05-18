@@ -46,3 +46,5 @@ nav:
   - API Reference:
       - API Reference: apiref.md
   - Contact us: contact.md
+extra_css:
+  - assets/custom.css

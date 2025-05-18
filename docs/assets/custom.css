@@ -1,0 +1,11 @@
+/* Light mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #00695C; /* Custom teal */
+  --md-accent-fg-color: #FF9800;  /* Custom orange */
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #00BCD4; /* Cyan-ish */
+  --md-accent-fg-color: #FFC107;  /* Amber */
+}

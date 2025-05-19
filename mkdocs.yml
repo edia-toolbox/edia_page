@@ -9,24 +9,17 @@ theme:
     - navigation.prune
     
   name: material
-  palette: 
-    # Light mode
+  custom_dir: overrides
+  palette:
     - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
       primary: blue
       accent: deep orange
-
-    # Dark mode
     - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
       primary: cyan
       accent: amber
   extra_css:
-    - overrides/css/custom.css
+    - css/custom.css
+
   
 markdown_extensions:
   - attr_list

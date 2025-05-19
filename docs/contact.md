@@ -1,8 +1,22 @@
 ---
 hide:
   - navigation
-  - toc
 ---
+# About EDIA
+## Contact us
+If you have any questions or comments regarding `EDIA`, please reach out to us. 
+
+:fontawesome-regular-envelope:  [edia.toolbox@gmail.com](mailto:edia.toolbox@gmail.com)
+
+:fontawesome-brands-bluesky: [@ediatoolbox.bsky.social](https://@ediatoolbox.bsky.social){target="_blank"}
+
+:material-github: [GitHub Discussion Board](https://github.com/orgs/edia-toolbox/discussions){target="_blank"} (will go public soon)
+
+## Main contributors
+**Jeroen de Mooij** — [website](https://thefirstfloor.framer.website/){target="_blank"} | [LinkedIn](https://www.linkedin.com/in/jeroendemooij/){target="_blank"}  
+**Felix Klotzsche** — [website](https://www.cbs.mpg.de/person/klotzsche/371395){target="_blank"} | [LinkedIn](https://www.linkedin.com/in/felix-klotzsche-a5238a1b7/){target="_blank"}
+
+
 # Contact form
 
 <div style="background: lightgray; padding: 10px;">

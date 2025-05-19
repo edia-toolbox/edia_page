@@ -2,11 +2,24 @@
 hide: 
   - navigation
 ---
+
 # :edia-edia_rounded: EDIA
 
 ## A Unity XR Toolbox for research
 
 EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR. 
+
+
+!!! warning "EDIA will be Open Source soon..."
+
+    We are currently resolving some legal aspects with our institution before we can publicly release the full source code. We appreciate your patience and expect to have everything ready soon.
+
+    We’re planning to launch the public alpha release early July.
+
+    If you want to get access beforehand, [please reach out to us](contact.md).
+
+
+
 ## Key features
 
 <div class="grid cards" markdown>
@@ -23,9 +36,9 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     ---
 
-    Use human readable config files to provide and change central information for your experiment without needing to recompile or touch your Unity code.
+    Use human readable config files to provide and change central information for your experiment without needing to recompile or touch your Unity code. 
 
-    [:octicons-arrow-right-24: Overview](https://mind-body-emotion.notion.site/Config-Files-1cb03dd4773f8121b74ccd4b6a95ab7c)
+    [:octicons-arrow-right-24: Overview](https://mind-body-emotion.notion.site/Config-Files-1cb03dd4773f8121b74ccd4b6a95ab7c){target="_blank"}
 
 -   :material-eye:{ .lg .middle } __Unified eye tracking integration__
 
@@ -33,7 +46,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     EDIA provides an integration of eye tracking for multiple different headsets (HTC Vive, Varjo, Meta Quest Pro, Pico), managing the parsing of the eye tracker output for you in the original sampling rate, and providing it via a standardized interface.
 
-    [:octicons-arrow-right-24: EDIA Eye module](https://mind-body-emotion.notion.site/EDIA-Eye-1e703dd4773f80ea8cfcd75bd87c004b)
+    [:octicons-arrow-right-24: EDIA Eye module](https://mind-body-emotion.notion.site/EDIA-Eye-1e703dd4773f80ea8cfcd75bd87c004b){target="_blank"}
 
 -   :material-remote:{ .lg .middle } __Remotely control mobile XR experiments__
 
@@ -42,7 +55,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
     Control experiments which run on a mobile XR headset (e.g., Meta Quest) externally and stream what the participant is seeing.
 
 
-    [:octicons-arrow-right-24: EDIA RCAS](https://mind-body-emotion.notion.site/EDIA-Remote-9dfde97f593e4221bee4630ab3284d4e)
+    [:octicons-arrow-right-24: EDIA RCAS](https://mind-body-emotion.notion.site/EDIA-Remote-9dfde97f593e4221bee4630ab3284d4e){target="_blank"}
 
 -   :fontawesome-regular-pen-to-square:{ .lg .middle } __Automatically log relevant data__
 
@@ -51,7 +64,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
     Use pre-configured tools to log different kinds of data: behavior and movements of the participant, experimental variables, eye tracking data, ...
 
 
-    [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/EDIA-Starterskit-Tutorial-1cb03dd4773f801285edf12e8b6018bd)
+    [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/Logging-the-results-1cb03dd4773f81b196b0f164eb1a67be){target="_blank"}
 
 -   :material-remote:{ .lg .middle } __Synchronize with external data__
 
@@ -60,7 +73,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
     Use the [LabStreamingLayer protocol](https://labstreaminglayer.org/){:target="_blank"} to synchronize your experiment with other data streams (e.g., EEG, fNIRS, ...).
 
 
-    [:octicons-arrow-right-24: EDIA LSL](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6)
+    [:octicons-arrow-right-24: EDIA LSL](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6){target="_blank"}
 
 </div>
 
@@ -110,6 +123,7 @@ Read our [getting started guide](gettingstarted.md).
     2. HTC Vive
     3. Varjo
     4. Pico
+    5. HTC Vive Focus 3 (not supported any longer)
 
 
 ## Get updated

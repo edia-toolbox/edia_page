@@ -13,6 +13,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - admonition
+  - pymdownx.details
 
 theme: 
   logo: assets/logo.png
@@ -21,6 +23,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.prune
+  icon: 
+    admonition:
+      note: fontawesome/solid/note-sticky
+      tip: fontawesome/solid/bullhorn
     
   name: material
   palette: 
@@ -29,7 +35,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: custom
       accent: deep orange
 
     # Dark mode
@@ -37,14 +43,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: blue
+      primary: custom
       accent: deep orange
-  extra_css:
-    - css/custom.css
+
+extra_css:
+  - stylesheets/extra.css
   
 nav:
   - Home: index.md
   - Getting Started: gettingstarted.md
   - API Reference:
       - API Reference: apiref.md
-  - Contact us: contact.md
+  - About: contact.md

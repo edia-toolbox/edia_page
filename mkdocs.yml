@@ -1,25 +1,6 @@
 site_name: EDIA
 site-url: https://edia-toolbox.github.io/
-theme: 
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.prune
-    
-  name: material
-  palette:
-    - scheme: default
-      primary: blue
-      accent: deep orange
-    - scheme: slate
-      primary: cyan
-      accent: amber
-  extra_css:
-    - css/custom.css
 
-  
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
@@ -33,10 +14,37 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+theme: 
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.prune
+    
+  name: material
+  palette: 
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: cyan
+      accent: amber
+  extra_css:
+    - css/custom.css
+  
 nav:
   - Home: index.md
   - Getting Started: gettingstarted.md
   - API Reference:
       - API Reference: apiref.md
   - Contact us: contact.md
-

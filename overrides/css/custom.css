@@ -9,3 +9,6 @@
   --md-primary-fg-color: #ff07f7; 
   --md-accent-fg-color: #FFC107;  
 }
+body {
+  background-color: red !important;
+}

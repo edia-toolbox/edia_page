@@ -118,16 +118,17 @@ Read our [getting started guide](gettingstarted.md).
     4. Interface for logging eye tracking data via :edia-Edia_Lsl_Yellow:`EDIA LSL` or writing it to disc. 
 
 === ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
-
-    1. Meta Quest
-    2. HTC Vive
-    3. Varjo
-    4. Pico
+    Separate submodules (packages) allow to parse the eye tracking data from the respective device into the unified EDIA eye tracking structure.  
+    Supported headsets:  
+    1. Meta Quest Pro  
+    2. HTC Vive Pro Eye   
+    3. Varjo Aero  
+    4. Pico 4 Enterprise  
     5. HTC Vive Focus 3 (not supported any longer)
 
 
-## Get updated
-At the moment EDIA is not Open Source yet, register here to keep updated.
-[Open the form page](contact.md).
+## Get involved
+If you want to use EDIA or start contributing (as soon as it is openly available), please 
+[reach out to us](contact.md).
 
 

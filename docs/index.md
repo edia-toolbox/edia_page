@@ -7,7 +7,8 @@ hide:
 
 ## A Unity XR Toolbox for research
 
-EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR. 
+!!! note "EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR."
+    
 
 
 !!! warning "EDIA will be Open Source soon..."
@@ -18,6 +19,9 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     If you want to get access beforehand, [please reach out to us](contact.md).
 
+
+
+![alt text](assets/frontpage_image.png)
 
 
 ## Key features

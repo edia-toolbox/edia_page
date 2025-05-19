@@ -106,9 +106,11 @@ Read our [getting started guide](gettingstarted.md).
 
 === ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+    1. Meta Quest
+    2. HTC Vive
+    3. Varjo
+    4. Pico
+
 
 ## Get updated
 At the moment EDIA is not Open Source yet, register here to keep updated.

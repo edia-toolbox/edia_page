@@ -6,6 +6,7 @@ hide:
 
 ## A Unity XR Toolbox for research
 
+Change
 EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR. 
 ## Key features
 

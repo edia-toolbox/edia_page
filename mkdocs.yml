@@ -3,7 +3,6 @@ site-url: https://edia-toolbox.github.io/
 theme: 
   logo: assets/logo.png
   favicon: assets/favicon.ico
-    #logo: fontawesome/brands/500px
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -27,7 +26,7 @@ theme:
       primary: cyan
       accent: amber
   extra_css:
-    - overrides/.css/custom.css
+    - overrides/css/custom.css
   
 markdown_extensions:
   - attr_list

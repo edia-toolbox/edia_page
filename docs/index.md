@@ -31,7 +31,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     ---
 
-    EDIA provides an integration of eye tracking for multiple different headsets (HTC Vive, Varjo, Meta Quest Pro, Pico 4E), managing the parsing of the eye tracker output for you in the original sampling rate, and providing it via a standardized interface.
+    EDIA provides an integration of eye tracking for multiple different headsets (HTC Vive, Varjo, Meta Quest Pro, Pico), managing the parsing of the eye tracker output for you in the original sampling rate, and providing it via a standardized interface.
 
     [:octicons-arrow-right-24: EDIA Eye module](#)
 

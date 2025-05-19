@@ -86,8 +86,9 @@ Read our [getting started guide](gettingstarted.md).
 ## Modules
 
 === ":edia-edia_rounded: EDIA Core"  
+    ![Image title](assets/edia_rounded.svg){ width=100 align=left }  
 
-    * The :heart: heart of the EDIA toolbox.
+    * The 🖤 heart of the EDIA toolbox.
     * Structure your experiment: `Sessions` <> `Blocks` <> `Trials` <> `Trial Steps`
     * Use logically nested Config files (JSON) to manage the compiled experiment.
     * Send messages to the XR user.
@@ -95,6 +96,7 @@ Read our [getting started guide](gettingstarted.md).
     
 
 === ":edia-Edia_Lsl_Yellow: EDIA LSL"  
+    ![Image title](assets/Edia_Lsl_Yellow.svg){ width=100 align=left }  
 
     1. Use the [LabStreamingLayer](https://labstreaminglayer.org/){:target="_blank"} protocol to synchronize your data.
     2. The :edia-Edia_Lsl_Yellow: `EDIA LSL` module is a convenience wrapper and extension of the [LSL4Unity](https://github.com/labstreaminglayer/LSL4Unity){:target="_blank} package.
@@ -103,6 +105,7 @@ Read our [getting started guide](gettingstarted.md).
         3. Easily stream data (eye tracking data, movement data) in world or local coordinates.
 
 === ":edia-Edia_Rcas_Cyan: EDIA RCAS"  
+    ![Image title](assets/Edia_Rcas_Cyan.svg){ width=100 align=left }  
 
     1. <span style="color: cyan;">**R**</span>emote <span style="color: cyan;">**C**</span>ontrol <span style="color: cyan;">**A**</span>nd <span style="color: cyan;">**S**</span>treaming.
     2. Interface with your experiment which runs on a mobile headset.
@@ -111,21 +114,36 @@ Read our [getting started guide](gettingstarted.md).
     5. Stream the headset view to the experimenter's device (*limited).
 
 === ":edia-Edia_Eye_Orange: EDIA Eye"  
+     ![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }  
 
-    1. Central :eye: eye tracking package of the `EDIA toolbox`. 
-    2. Provides a unified interface for accessing eye tracking data.
-    3. Example visualizations of eye tracking data: gaze, eye openness, ...
-    4. Interface for logging eye tracking data via :edia-Edia_Lsl_Yellow:`EDIA LSL` or writing it to disc. 
+    * Central :eye: eye tracking package of the `EDIA toolbox`.  
+    * Provides a unified interface for accessing eye tracking data.  
+    * Example visualizations of eye tracking data: gaze, eye openness, ...  
+    * Interface for logging eye tracking data via :edia-Edia_Lsl_Yellow:`EDIA LSL` or writing it to disc.
+
 
 === ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
-    Separate submodules (packages) allow to parse the eye tracking data from the respective device into the unified EDIA eye tracking structure.  
-    Supported headsets:  
-    1. Meta Quest Pro  
-    2. HTC Vive Pro Eye   
-    3. Varjo Aero  
-    4. Pico 4 Enterprise  
-    5. HTC Vive Focus 3 (not supported any longer)
+    ![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }
 
+    Separate submodules (packages) allow to parse the eye tracking data from the respective device into the unified EDIA eye tracking structure.  
+    **Supported headsets:**
+    
+    <div class="grid" markdown>
+
+    :fontawesome-brands-meta: Meta Quest Pro
+    { .card }
+
+    :brands-vive: HTC Vive Pro Eye
+    { .card }
+
+    :brands-varjo_bg: Varjo Aero
+    { .card }
+
+    :brands-pico_bg: PICO 4 Enterprise
+    { .card }
+
+    </div>
+        
 
 ## Get involved
 If you want to use EDIA or start contributing (as soon as it is openly available), please 

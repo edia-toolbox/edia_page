@@ -60,7 +60,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
     Use the [LabStreamingLayer protocol](https://labstreaminglayer.org/){:target="_blank"} to synchronize your experiment with other data streams (e.g., EEG, fNIRS, ...).
 
 
-    [:octicons-arrow-right-24: EDIA LSL](https://labstreaminglayer.org/)
+    [:octicons-arrow-right-24: EDIA LSL](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6)
 
 </div>
 

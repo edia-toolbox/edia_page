@@ -1,5 +1,5 @@
 site_name: EDIA
-site-url: https://sitename.example
+site-url: https://edia-toolbox.github.io/
 theme: 
   logo: assets/logo.png
   favicon: assets/favicon.ico
@@ -27,7 +27,7 @@ theme:
       primary: cyan
       accent: amber
   extra_css:
-    - overrides/custom.css
+    - css/custom.css
   
 markdown_extensions:
   - attr_list

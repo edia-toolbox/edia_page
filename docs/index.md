@@ -25,7 +25,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
 
     Use human readable config files to provide and change central information for your experiment without needing to recompile or touch your Unity code.
 
-    [:octicons-arrow-right-24: Overview](https://mind-body-emotion.notion.site/Config-files-1ca03dd4773f80f1b40dd78ae134df26)
+    [:octicons-arrow-right-24: Overview](https://mind-body-emotion.notion.site/Config-Files-1cb03dd4773f8121b74ccd4b6a95ab7c)
 
 -   :material-eye:{ .lg .middle } __Unified eye tracking integration__
 
@@ -51,7 +51,7 @@ EDIA provides you with a set of modules (Unity packages) to facilitate the desig
     Use pre-configured tools to log different kinds of data: behavior and movements of the participant, experimental variables, eye tracking data, ...
 
 
-    [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/Logging-1ca03dd4773f804ab2dafa578397c048)
+    [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/EDIA-Starterskit-Tutorial-1cb03dd4773f801285edf12e8b6018bd)
 
 -   :material-remote:{ .lg .middle } __Synchronize with external data__
 

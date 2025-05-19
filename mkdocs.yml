@@ -37,8 +37,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: cyan
-      accent: amber
+      primary: blue
+      accent: deep orange
   extra_css:
     - css/custom.css
   
